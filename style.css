@@ -20,7 +20,7 @@ a:hover{
 }
 
 #demo {
-  font-family: monospace;
+  font-family: Helvetica Neue, sans-serif; 
   position: absolute;
   bottom: 8px;
   left: 16px;
