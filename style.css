@@ -15,7 +15,6 @@ body{
 }
 
 nav li{
-    position: fixed;
     font-family: 'Helvetica Neue','Helvetica','Ubuntu','Roboto','Noto','Segoe     UI','Arial',sans-serif;
     font-weight: 500;
     -webkit-font-smoothing: antialiased;
@@ -24,7 +23,6 @@ nav li{
     line-height: 1.111;
     word-spacing: 0.05rem;
   list-style: none;
-  text-transform: uppercase;
   font-size: 22px;
 }
 hr.hr{
