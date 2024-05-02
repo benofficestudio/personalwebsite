@@ -1,7 +1,7 @@
 html {
   height: 100%;
   width: 100%;
-  background: white;
+  background: #F8F8F8;
   overflow-x: hidden;
 }
 
@@ -24,27 +24,28 @@ nav li{
     word-spacing: 0.05rem;
   list-style: none;
   font-size: 22px;
+  text-transform: uppercase;
 }
 
 hr.hr{
   border: 0.5px dashed black;
 }
 a{
-  color: blue;
+  color: #303fd0;
   text-decoration: underline;
   cursor: pointer;
 }
 
 a:hover{
-  color: blue;
+  color: #303fd0;
   text-decoration: underline;
-  text-decoration-color: blue;
+  text-decoration-color: #303fd0;
 }  
 
 nav li a:hover{
   text-decoration: underline;
-  text-decoration-color: blue;
-  color: blue;
+  text-decoration-color: #303fd0;
+  color: #303fd0;
 }
 
 .active {
