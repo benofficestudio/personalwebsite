@@ -2,6 +2,7 @@ html {
   height: 100%;
   width: 100%;
   background: whitesmoke;
+  /* background: rgb(242,243,237); */
   overflow-x: hidden;
 }
 
@@ -23,7 +24,8 @@ nav li{
   list-style: none;
   font-size: 16px;
   text-transform: uppercase;
-  color: black;
+  /* color: black; */
+  color: rgb(70, 39, 44); 
 }
 
 hr.hr{
@@ -70,6 +72,7 @@ font-family: 'Helvetica Neue','Helvetica','Ubuntu','Roboto','Noto','Segoe UI','A
     text-align: left;
   line-height: 1.11;
   font-size: 16px;
+  /* color: rgb(70, 39, 44);  */
 }
 /*INDEX/ESSAY PARAGRAPH*/
 
