@@ -22,7 +22,7 @@ nav li{
     text-align: left;
     line-height: 1.2;
   list-style: none;
-  font-size: 28px;
+  font-size: 20px;
   text-transform: uppercase;
   /* color: black; */
   color: rgb(70, 39, 44); 
@@ -71,7 +71,7 @@ font-family: 'Helvetica Neue','Helvetica','Ubuntu','Roboto','Noto','Segoe UI','A
     -webkit-font-smoothing: antialiased;
     text-align: left;
   line-height: 1.11;
-  font-size: 28px;
+  font-size: 20px;
   /* color: rgb(70, 39, 44);  */
 }
 /*INDEX/ESSAY PARAGRAPH*/
@@ -157,31 +157,6 @@ small {
       .sm12{
         grid-column-end: span 1;
       }
-  
-  nav li{
-      font-family: 'Helvetica Neue','Helvetica','Ubuntu','Roboto','Noto','Segoe     UI','Arial',sans-serif;
-      font-weight: bold;
-      -webkit-font-smoothing: antialiased;
-      text-align: left;
-      line-height: 1.2;
-    list-style: none;
-    font-size: 18px;
-    text-transform: uppercase;
-    /* color: black; */
-    color: rgb(70, 39, 44); 
-  }
-
-  /*INDEX/ESSAY PARAGRAPH*/
-  .section {
-  font-family: 'Helvetica Neue','Helvetica','Ubuntu','Roboto','Noto','Segoe UI','Arial',sans-serif;
-      font-weight: 500;
-      -webkit-font-smoothing: antialiased;
-      text-align: left;
-    line-height: 1.11;
-    font-size: 28px;
-    /* color: rgb(70, 39, 44);  */
-  }
-  /*INDEX/ESSAY PARAGRAPH*/
   
   body{
   margin: 1.5vw;
